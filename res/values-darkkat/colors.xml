@@ -16,7 +16,7 @@
 
 <resources>
 
-    <!-- DarkKat theme -->
+    <!-- Night (DarkKat) theme colors -->
     <color name="darkkat_blue_grey">#ff1b1f23</color>
 
     <color name="background_dialpad">@color/darkkat_blue_grey</color>
